@@ -34,4 +34,4 @@
 如果你能够【自己】问出诸如上述的“为什么”问题，并且能够通过各种途径找到解答，那你基本上已经吃透这个技术了，并且你已经【有可能】自己去【设计】一个类似的玩意儿了。到这时，你已经踏上了通向技术高手的康庄大道。
 
 
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
+<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
